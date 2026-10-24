@@ -7,6 +7,7 @@ Keunggulan	Portabilitas sangat tinggi (bisa diakses dari perangkat apa pun yang 
 Keterbatasan	Bergantung pada koneksi internet; akses hardware terbatas; UI mungkin kurang optimal di layar sentuh kecil	Distribusi dan instalasi sulit; portabilitas rendah (terikat OS); tidak dirancang untuk remote connection	Layar relatif kecil; tool development lebih terbatas; distribusi via app store memiliki aturan ketat; pengembangan lebih kompleks
 Contoh aplikasi	Google Docs, Figma, Tokopedia (web), YouTube (web), Canva	Microsoft Word, Adobe Photoshop, Visual Studio Code, game PC (Steam)	WhatsApp, Instagram, Gojek, Mobile Legends, Spotify (mobile)
 
+
 Sumber Referensi
 
 Diana, M. C. Saputra, & A. Pinandito. (2023). The Impact of Platform Differences on System Use in Accounting Information System. In International Conference on Sustainable Information Engineering and Technology (SIET 2023), ACM. DOI: 10.1145/3626641.3627148 — Membandingkan platform desktop, web, dan mobile dari sisi efisiensi penggunaan sistem.
@@ -15,5 +16,5 @@ Cell Press (Heliyon). Table 2: Platforms and their advantages and disadvantages.
 
 Ettifouri, E., et al. (2017). Toward a merged approach for cross-platform applications (Web, Mobile and Desktop). ACM. DOI: 10.1145/3128128.3128160 — Membahas pendekatan pengembangan lintas platform untuk web, mobile, dan desktop.
 
-(Opsional) 3PM Solution. (2025). Desktop, Web, atau Mobile: Mana Platform Terbaik untuk Software Custom? LinkedIn. — Memberikan perspektif praktis tentang pemilihan platform.
+(Opsional) 3PM Solution. (2025). Desktop, Web, atau Mobile: Mana Platform Terbaik untuk Software Custom? LinkedIn. — Memberikan perspektif praktis tentang pemilihan platform. 
 
