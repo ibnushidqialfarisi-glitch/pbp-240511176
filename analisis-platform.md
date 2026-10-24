@@ -8,7 +8,6 @@ Keterbatasan	Bergantung pada koneksi internet; akses hardware terbatas; UI mungk
 Contoh aplikasi	Google Docs, Figma, Tokopedia (web), YouTube (web), Canva	Microsoft Word, Adobe Photoshop, Visual Studio Code, game PC (Steam)	WhatsApp, Instagram, Gojek, Mobile Legends, Spotify (mobile)
 
 Sumber Referensi
-Tambahkan bagian Referensi di akhir file analisis-platform.md:
 
 Diana, M. C. Saputra, & A. Pinandito. (2023). The Impact of Platform Differences on System Use in Accounting Information System. In International Conference on Sustainable Information Engineering and Technology (SIET 2023), ACM. DOI: 10.1145/3626641.3627148 — Membandingkan platform desktop, web, dan mobile dari sisi efisiensi penggunaan sistem.
 
