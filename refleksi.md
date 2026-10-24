@@ -2,12 +2,12 @@
 
 **1. Platform mana yang paling menarik untuk dipelajari? Mengapa?**
 
-Platform yang paling menarik bagi saya adalah **[Web / Desktop / Mobile — pilih salah satu]**. Alasannya karena [tulis alasanmu, misalnya: platform web sangat fleksibel dan bisa diakses dari mana saja tanpa instalasi, sehingga cocok untuk aplikasi yang digunakan banyak orang secara bersamaan. Saya juga tertarik dengan ekosistem JavaScript yang kaya, mulai dari frontend hingga backend]. Selain itu, [tambahkan alasan lain, misalnya: proses update yang terpusat membuat pengembangan terasa lebih efisien].
+Platform yang paling menarik bagi saya adalah **Web**. Alasannya karena platform web sangat fleksibel dan bisa diakses dari perangkat apa pun tanpa perlu proses instalasi yang rumit. Selain itu, saya tertarik dengan ekosistem JavaScript yang baru saja saya pelajari (Node.js), yang bisa digunakan untuk frontend maupun backend. Proses update yang terpusat di server juga membuat pengembangan aplikasi web terasa lebih efisien.
 
 **2. Apa tantangan terbesar saat setup environment?**
 
-Tantangan terbesar yang saya hadapi adalah **[pilih salah satu: proses instalasi Java JDK dan konfigurasi PATH environment variable / ukuran file Android Studio yang sangat besar sehingga memakan waktu dan kuota / memastikan versi Node.js dan NPM kompatibel dengan tools lain]**. Saya sempat mengalami [ceritakan kendala spesifikmu, misalnya: error saat menjalankan `java -version` karena PATH belum terkonfigurasi dengan benar].
+Tantangan terbesar yang saya hadapi saat setup environment adalah proses instalasi Android Studio. Ukuran filenya sangat besar (lebih dari 1 GB) sehingga sangat memakan waktu dan kuota internet. Selain itu, saya juga sempat kebingungan saat menginstal Git karena muncul peringatan keamanan dari Windows Defender SmartScreen yang memblokir aplikasi.
 
 **3. Bagaimana rencana Anda mengatasi tantangan tersebut?**
 
-Untuk mengatasinya, saya **[tulis solusimu, misalnya: mencari panduan resmi di dokumentasi Oracle dan video tutorial, lalu memeriksa ulang Environment Variables di Windows. Saya juga belajar bahwa konsistensi versi sangat penting, jadi saya mencatat versi setiap tools yang terinstall]. Ke depannya, saya akan [rencana ke depan, misalnya: membuat checklist instalasi dan menyimpan catatan konfigurasi agar tidak mengulangi kesalahan yang sama].**
+Untuk mengatasinya, saya mencari panduan di internet dan memilih opsi "More info" lalu "Run anyway" pada peringatan Windows Defender, karena saya yakin file tersebut aman dari situs resmi. Untuk Android Studio, saya berencana mengunduhnya secara bertahap. Jika masih terkendala, saya akan melaporkannya di laporan PDF sesuai instruksi tugas.
